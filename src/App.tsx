@@ -28,8 +28,8 @@ const App = () => {
           height: submittedUrl ? "auto" : "100vh",
         }}
       >
-        <div style={{ position: "absolute", top: 120, right: 10 }}>
-          Made by :-{" "}
+        <div style={{ position: "absolute", top: 10, right: 10, fontSize: 12 }}>
+          Developed by :-{" "}
           <a
             href="https://rishijay.web.app/"
             target="_blank"
