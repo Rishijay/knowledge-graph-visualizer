@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import GraphRenderer from "./GraphRenderer";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
   const [ttlUrl, setTtlUrl] = useState("");
